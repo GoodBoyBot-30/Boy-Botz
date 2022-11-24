@@ -94,7 +94,12 @@
       "afkTime": -1,
       "afkReason": "",
       "limit": 100
-    }
+    {
+  "users": {
+    "62895368426077": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
   },
   "chats": {
     "6281214281312@s.whatsapp.net": {
@@ -148,6 +153,8 @@
     "6283176492305@s.whatsapp.net": {
       "mute": false
     }
+    "62895368426077@s.whatsapp.net": {
+      "mute": false
   },
   "database": {},
   "settings": {
@@ -181,7 +188,7 @@
       "composing": false,
       "recording": false
     },
-    "6282162308024@s.whatsapp.net": {
+    "62895368426077@s.whatsapp.net": {
       "available": true,
       "composing": false,
       "recording": false
